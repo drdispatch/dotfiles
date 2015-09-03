@@ -1,0 +1,16 @@
+[user]
+    name = Richard Holland
+    email = richard@drdispatch.com
+[github]
+    user = drdispatch
+[core]
+    editor = vim
+[alias]
+    st = status
+    ci = commit
+    df = diff
+    co = checkout
+    l = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+    ll = log --pretty=oneline --graph --abbrev-commit
+    lm = log --pretty=format:'* %s (%h)'
+    lg = log -p
