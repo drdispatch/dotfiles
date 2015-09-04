@@ -17,6 +17,7 @@ apps=(
     webstorm
     transmit
     virtualbox
+    java
 )
 
 brew cask install "${apps[@]}"

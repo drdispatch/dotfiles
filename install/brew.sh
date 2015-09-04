@@ -33,9 +33,10 @@ apps=(
     wget
     tree
     dark-mode
+    talk-filters
     # Install some CTF tools; see https://github.com/ctfs/write-ups.
     aircrack-ng
-    install bfg
+    bfg
     binutils
     binwalk
     cifer
@@ -56,7 +57,6 @@ apps=(
     tcpreplay
     tcptrace
     ucspi-tcp # `tcpserver` etc.
-    xpdf
     xz
 )
 
