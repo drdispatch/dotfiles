@@ -3,6 +3,7 @@
 
 call pathogen#runtime_append_all_bundles()
 execute pathogen#infect()
+:call pathogen#helptags()
 
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " BASIC EDITING CONFIGURATION
