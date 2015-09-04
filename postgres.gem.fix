@@ -1,0 +1,1 @@
+sudo PATH=/Users/richard/.rbenv/shims:/Users/richard/.rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/PostgreSQL/x.y/bin bundle install
