@@ -12,8 +12,10 @@ EXTRA_DIR="$HOME/.extra"
 
 # Bunch of symlinks
 
-#ln -sfv "$DOTFILES_DIR/runcom/.bash_profile" ~
-#ln -sfv "$DOTFILES_DIR/runcom/.inputrc" ~
+ln -sfv "$DOTFILES_DIR/zsh/.zshrc" ~
+ln -sfv "$DOTFILES_DIR/vim/.vimrc" ~
+ln -sfv "$DOTFILES_DIR/vim/.vim" ~
+ln -sfv "$DOTFILES_DIR/input/.inputrc" ~
 ln -sfv "$DOTFILES_DIR/git/.gitconfig" ~
 
 if [ "$(uname)" == "Darwin" ]; then
