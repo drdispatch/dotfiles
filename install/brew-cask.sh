@@ -18,6 +18,7 @@ apps=(
     transmit
     virtualbox
     java
+    evernote
 )
 
 brew cask install "${apps[@]}"

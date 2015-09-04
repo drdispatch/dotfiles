@@ -15,11 +15,8 @@ brew tap caskroom/versions
 # Install Ruby gems (SASS, Compass)
 # Not OSX-only, but lazy.
 
-#sudo gem install compass
-#sudo gem install lunchy
-#sudo gem install pygmentize
-#sudo gem install sass
-#sudo gem install sass-globbing
+sudo gem install lunchy
+sudo gem install bundler
 
 # Globally install with npm
 # Not OSX-only, but npm was installed from this script as well.
