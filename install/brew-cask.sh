@@ -14,6 +14,9 @@ apps=(
     spotify
     sublime-text3
     vlc
+    webstorm
+    transmit
+    virtualbox
 )
 
 brew cask install "${apps[@]}"
