@@ -5,6 +5,8 @@
     user = drdispatch
 [core]
     editor = vim
+[push]
+    default = matching
 [alias]
     st = status
     ci = commit
@@ -29,4 +31,3 @@
     added = yellow
     changed = green
     untracked = cyan
-
