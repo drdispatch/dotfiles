@@ -16,6 +16,7 @@ apps=(
     jq
     mackup
     node
+    parity
     peco
     phantomjs
     vim --override-system-vi
@@ -58,6 +59,8 @@ apps=(
     tcptrace
     ucspi-tcp # `tcpserver` etc.
     xz
+    go
+    docker
 )
 
 brew install "${apps[@]}"

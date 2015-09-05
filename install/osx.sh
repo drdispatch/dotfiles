@@ -7,6 +7,7 @@ brew tap caskroom/cask
 brew install brew-cask
 brew tap homebrew/versions
 brew tap caskroom/versions
+brew tap thoughtbot/formulae
 # Install brew & brew-cask packages
 
 . "$DOTFILES_DIR/install/brew.sh"
