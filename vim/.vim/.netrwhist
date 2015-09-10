@@ -1,11 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/Users/richard/Dropbox/code/prototype/public/assets/dresssed/icons'
-let g:netrw_dirhist_2='/Users/richard/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/minitest-5.8.0'
-let g:netrw_dirhist_3='/Users/richard/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/minitest-5.8.0/lib'
-let g:netrw_dirhist_4='/Users/richard/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/minitest-5.8.0/lib/minitest'
-let g:netrw_dirhist_5='/Users/richard/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/rails-4.2.3'
-let g:netrw_dirhist_6='/Users/richard/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/rails-4.2.3/guides'
-let g:netrw_dirhist_7='/Users/richard/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/rails-4.2.3/guides/assets'
-let g:netrw_dirhist_8='/Users/richard/.rbenv/versions/2.2.0/lib/ruby/gems/2.2.0/gems/rails-4.2.3/guides/assets/images'
-let g:netrw_dirhist_9='/Users/richard/.rbenv/versions/2.2.0/lib/ruby/2.2.0/matrix'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/richard/Dropbox/code/drdispatch-app/test'
+let g:netrw_dirhist_2='/Users/richard/Dropbox/code/drdispatch-app/test/fixtures'
+let g:netrw_dirhist_3='/Users/richard/Dropbox/code/drd_model/app/views/freight'
+let g:netrw_dirhist_4='/Users/richard/Dropbox/code/object_graph_rails/app/assets/javascripts'
