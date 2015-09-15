@@ -35,6 +35,7 @@ apps=(
     tree
     dark-mode
     talk-filters
+    elasticsearch
     # Install some CTF tools; see https://github.com/ctfs/write-ups.
     aircrack-ng
     bfg

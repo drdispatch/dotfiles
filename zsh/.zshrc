@@ -87,3 +87,5 @@ export GOPATH="$HOME/code/go"
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 export PATH="/usr/local/sbin:$PATH"
+setopt auto_cd
+cdpath=($HOME/Dropbox $HOME/code)

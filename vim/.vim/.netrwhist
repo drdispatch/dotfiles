@@ -1,6 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/Users/richard/Dropbox/code/drdispatch-app/test'
 let g:netrw_dirhist_2='/Users/richard/Dropbox/code/drdispatch-app/test/fixtures'
 let g:netrw_dirhist_3='/Users/richard/Dropbox/code/drd_model/app/views/freight'
 let g:netrw_dirhist_4='/Users/richard/Dropbox/code/object_graph_rails/app/assets/javascripts'
+let g:netrw_dirhist_5='/Users/richard/Dropbox/code/app/app/assets/stylesheets'
+let g:netrw_dirhist_6='/Users/richard/Dropbox/code/bap/app/assets/javascripts'
+let g:netrw_dirhist_7='/Users/richard/Dropbox/code/bap/app/decorators'
+let g:netrw_dirhist_8='/Users/richard/Dropbox/code/prototype'
+let g:netrw_dirhist_9='/Users/richard/Dropbox/code/bap/app/assets/javascripts'
