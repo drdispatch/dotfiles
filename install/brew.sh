@@ -62,6 +62,7 @@ apps=(
     xz
     go
     docker
+    postgis
 )
 
 brew install "${apps[@]}"

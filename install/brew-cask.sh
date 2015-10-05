@@ -19,6 +19,7 @@ apps=(
     virtualbox
     java
     evernote
+    ynab
 )
 
 brew cask install "${apps[@]}"
